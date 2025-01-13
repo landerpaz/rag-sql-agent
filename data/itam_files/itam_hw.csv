@@ -1,0 +1,101 @@
+Asset_ID,Asset_Name,Asset_Type,Manufacturer,Model,Purchase_Date,Warranty_Expiry,Assigned_To,Status
+HW001,It Device,Hardware,Lenovo,Model-4915,2022-07-07,2027-12-29,William Jackson,Retired
+SW002,Source Software,Software,SAP,Version-82.2,2022-11-06,2027-04-17,Ashok Arulsamy,Active
+HW003,Green Device,Hardware,HP,Model-8953,2020-09-28,2027-03-16,Jennifer Adams,Retired
+SW004,Human Software,Software,Oracle,Version-38.7,2023-10-04,2028-10-01,HR Specialist,Expired
+HW005,Sound Device,Hardware,Apple,Model-2092,2021-03-29,2029-07-28,Mrs. Grace Molina,Retired
+SW006,Unit Software,Software,VMware,Version-70.9,2022-05-01,2029-03-29,Marketing Manager,Deprecated
+HW007,Former Device,Hardware,Asus,Model-2796,2021-07-28,2028-10-14,Jeffrey Griffin,In Use
+HW008,Police Device,Hardware,Apple,Model-0225,2021-05-15,2028-10-18,Mary Hart,Retired
+HW009,Eat Device,Hardware,HP,Model-8979,2020-05-30,2026-07-15,Claudia Glover,Retired
+HW010,Fall Device,Hardware,Lenovo,Model-2922,2021-12-13,2029-10-24,Jeffrey Serrano,Available
+HW011,Student Device,Hardware,Lenovo,Model-9315,2024-09-04,2026-03-25,Anna Williams,Available
+SW012,Long Software,Software,SAP,Version-00.4,2023-08-02,2029-03-21,Data Analyst,Deprecated
+HW013,Majority Device,Hardware,Lenovo,Model-4924,2022-04-22,2029-10-02,Ashok Arulsamy,In Use
+HW014,Work Device,Hardware,Dell,Model-3339,2021-03-14,2028-05-11,Christine Whitney,Retired
+SW015,Bill Software,Software,Adobe,Version-04.4,2020-10-25,2027-01-31,Support Engineer,Active
+HW016,Tend Device,Hardware,HP,Model-1381,2021-12-28,2025-02-04,Anthony Jackson,Retired
+HW017,Thing Device,Hardware,Dell,Model-8058,2020-02-18,2027-06-01,James Grant,Available
+HW018,Peace Device,Hardware,Dell,Model-8557,2023-06-23,2025-04-04,Eric Ware,Available
+HW019,Government Device,Hardware,Asus,Model-9268,2022-03-08,2026-02-25,Samuel Maxwell,Retired
+SW020,Either Software,Software,Adobe,Version-47.3,2020-04-25,2026-03-30,Finance Analyst,Expired
+HW021,Size Device,Hardware,Apple,Model-9399,2024-08-25,2028-08-22,Christopher Booker,Available
+HW022,Of Device,Hardware,HP,Model-3204,2024-05-08,2029-11-07,Jon Wilson,In Use
+SW023,Reveal Software,Software,Microsoft,Version-93.9,2020-04-15,2028-07-15,Network Engineer,Active
+HW024,Card Device,Hardware,Lenovo,Model-0757,2022-12-27,2028-05-04,Ashok Arulsamy,Retired
+SW025,Leave Software,Software,Oracle,Version-65.2,2022-10-03,2028-07-04,Sales Associate,Active
+HW026,About Device,Hardware,HP,Model-2230,2023-05-08,2026-10-08,Kristie Scott,In Use
+HW027,Management Device,Hardware,HP,Model-9708,2023-12-03,2025-11-09,Thomas Smith,In Use
+SW028,Structure Software,Software,SAP,Version-55.8,2020-05-07,2025-04-16,Sales Associate,Active
+SW029,Writer Software,Software,Adobe,Version-31.1,2020-01-19,2027-08-19,Data Analyst,Active
+HW030,White Device,Hardware,Dell,Model-5155,2023-10-27,2028-09-30,Kristina Haley,Retired
+SW031,Professor Software,Software,Adobe,Version-86.3,2024-06-08,2025-10-09,Product Manager,Active
+SW032,Leg Software,Software,Oracle,Version-91.0,2022-12-06,2029-01-28,Marketing Manager,Active
+SW033,Close Software,Software,Oracle,Version-29.1,2020-12-02,2026-05-23,Support Engineer,Deprecated
+SW034,They Software,Software,SAP,Version-56.6,2021-05-19,2027-01-31,Marketing Manager,Deprecated
+SW035,Under Software,Software,Microsoft,Version-05.1,2022-08-29,2028-02-23,Product Manager,Active
+HW036,Cup Device,Hardware,Lenovo,Model-2419,2024-01-16,2029-01-12,Cathy Massey,Available
+HW037,Establish Device,Hardware,Dell,Model-2849,2020-11-22,2025-05-11,Jared Ramos,Available
+HW038,Forget Device,Hardware,Lenovo,Model-4372,2022-04-01,2025-12-12,Melissa Glenn,Available
+SW039,East Software,Software,VMware,Version-30.2,2023-10-06,2025-06-23,HR Specialist,Deprecated
+SW040,Part Software,Software,Microsoft,Version-01.7,2024-11-10,2029-02-25,Network Engineer,Active
+SW041,Everyone Software,Software,Oracle,Version-70.1,2024-07-02,2029-02-27,Support Engineer,Deprecated
+SW042,Goal Software,Software,Adobe,Version-07.9,2020-11-22,2029-03-20,Finance Analyst,Active
+HW043,Generation Device,Hardware,HP,Model-0943,2024-06-20,2025-11-28,Ashley Howell,Available
+SW044,Suggest Software,Software,Microsoft,Version-05.9,2020-07-04,2026-02-13,Support Engineer,Expired
+HW045,Half Device,Hardware,Dell,Model-9115,2022-07-24,2027-11-24,Jon Young,Available
+HW046,Tree Device,Hardware,Asus,Model-3342,2021-06-12,2028-11-04,Michael Brown,In Use
+HW047,Worker Device,Hardware,Asus,Model-3539,2023-10-19,2026-01-26,Joshua Whitehead,Retired
+SW048,Consider Software,Software,Oracle,Version-50.2,2023-05-03,2026-07-27,Product Manager,Active
+HW049,Rock Device,Hardware,Lenovo,Model-3745,2022-04-21,2025-06-03,Stephanie Bridges,Retired
+HW050,Actually Device,Hardware,Lenovo,Model-2820,2021-05-27,2027-07-05,John Moreno,Retired
+HW051,Kind Device,Hardware,Dell,Model-8723,2024-11-19,2029-11-16,Adam Salazar,Available
+SW052,Sing Software,Software,Adobe,Version-40.3,2023-04-14,2026-10-25,Finance Analyst,Deprecated
+HW053,Step Device,Hardware,Asus,Model-6226,2022-10-14,2029-05-23,Ashok Arulsamy,Available
+SW054,Art Software,Software,Oracle,Version-72.7,2020-11-13,2025-12-16,HR Specialist,Deprecated
+HW055,Mrs Device,Hardware,Dell,Model-9672,2020-10-14,2029-10-21,Kelli Knox,Available
+SW056,Condition Software,Software,SAP,Version-64.6,2021-12-30,2028-03-12,System Administrator,Expired
+SW057,Ago Software,Software,Oracle,Version-93.3,2023-01-05,2026-02-10,System Administrator,Active
+SW058,Institution Software,Software,VMware,Version-83.1,2022-10-31,2026-03-07,Finance Analyst,Expired
+SW059,Mother Software,Software,SAP,Version-97.6,2022-02-28,2029-02-09,Finance Analyst,Expired
+SW060,Increase Software,Software,Oracle,Version-48.6,2023-11-14,2027-12-15,Data Analyst,Active
+HW061,Draw Device,Hardware,Lenovo,Model-8189,2021-02-23,2025-02-06,Perry Diaz,Retired
+SW062,Gun Software,Software,SAP,Version-07.3,2024-10-27,2025-05-18,Marketing Manager,Deprecated
+SW063,Themselves Software,Software,VMware,Version-01.6,2023-01-07,2025-04-05,HR Specialist,Deprecated
+HW064,Network Device,Hardware,HP,Model-0045,2020-09-17,2027-08-31,Luis Perez,Available
+HW065,Staff Device,Hardware,Dell,Model-8759,2024-05-17,2028-10-21,Mrs. Madison Howard,Retired
+HW066,Spring Device,Hardware,Dell,Model-4727,2021-04-12,2025-01-23,Amber Baker,Retired
+HW067,Can Device,Hardware,Asus,Model-8101,2021-09-07,2027-11-09,Rebecca Prince,In Use
+HW068,Ability Device,Hardware,Lenovo,Model-9069,2021-06-19,2028-02-22,Toni Wiley,Available
+HW069,Ahead Device,Hardware,Lenovo,Model-8140,2023-05-01,2028-01-29,Jeffrey Baker,Retired
+HW070,Anything Device,Hardware,Dell,Model-6418,2023-01-29,2029-02-07,Tracy Kim,Available
+HW071,Quality Device,Hardware,Dell,Model-0310,2023-10-26,2029-05-14,Dustin Park,Available
+SW072,East Software,Software,VMware,Version-07.0,2022-11-01,2029-12-20,Finance Analyst,Deprecated
+HW073,Window Device,Hardware,HP,Model-3206,2023-08-02,2025-09-03,Nathaniel Russell,In Use
+SW074,House Software,Software,SAP,Version-97.7,2022-08-18,2026-12-01,Product Manager,Active
+HW075,Owner Device,Hardware,HP,Model-8262,2022-02-12,2026-03-02,Joseph Andrade,Available
+HW076,Save Device,Hardware,Apple,Model-4374,2022-06-05,2026-05-11,Jeffrey Contreras,Retired
+HW077,Choose Device,Hardware,Lenovo,Model-4286,2020-08-03,2025-10-30,Maria Bennett,Available
+HW078,Future Device,Hardware,Lenovo,Model-1567,2024-05-08,2028-03-04,Daniel Jennings,In Use
+SW079,Many Software,Software,Adobe,Version-32.7,2022-11-29,2025-04-25,Sales Associate,Deprecated
+HW080,Send Device,Hardware,Apple,Model-3690,2024-12-03,2026-01-18,Carol Cobb,Retired
+SW081,Painting Software,Software,VMware,Version-39.2,2024-06-20,2026-10-24,Sales Associate,Expired
+HW082,Body Device,Hardware,HP,Model-4912,2021-02-24,2026-12-29,Ian Rodriguez,Available
+SW083,Owner Software,Software,Microsoft,Version-84.1,2022-02-15,2025-12-29,Network Engineer,Active
+SW084,Professional Software,Software,Microsoft,Version-37.6,2022-03-07,2026-05-12,Sales Associate,Active
+HW085,Buy Device,Hardware,Asus,Model-3430,2024-05-23,2027-12-29,David Duarte,Available
+SW086,Top Software,Software,SAP,Version-36.3,2023-06-14,2026-05-07,Network Engineer,Active
+HW087,Media Device,Hardware,Apple,Model-3471,2023-10-04,2026-06-28,Russell Lopez MD,Retired
+SW088,Might Software,Software,Adobe,Version-42.2,2023-04-03,2029-09-22,Product Manager,Active
+HW089,Try Device,Hardware,Asus,Model-7652,2022-05-12,2025-11-09,James Deleon MD,Available
+SW090,Give Software,Software,VMware,Version-50.6,2020-04-25,2028-03-18,Network Engineer,Active
+HW091,New Device,Hardware,Apple,Model-9329,2022-08-17,2027-05-10,Katie Richardson,Retired
+SW092,Specific Software,Software,SAP,Version-31.4,2023-12-14,2028-04-06,Finance Analyst,Expired
+SW093,Little Software,Software,Adobe,Version-56.1,2024-12-12,2028-05-03,HR Specialist,Expired
+SW094,Film Software,Software,Oracle,Version-36.2,2021-01-11,2027-01-14,Sales Associate,Active
+HW095,Need Device,Hardware,Asus,Model-1124,2022-04-07,2029-03-15,Tina Foley,In Use
+HW096,Middle Device,Hardware,Asus,Model-6021,2022-12-22,2025-12-08,Dr. Heather Wong,Available
+SW097,Official Software,Software,Oracle,Version-21.6,2024-06-29,2028-07-18,System Administrator,Expired
+HW098,Public Device,Hardware,Dell,Model-9253,2024-01-24,2029-09-06,Angela Anderson,Available
+HW099,Book Device,Hardware,Dell,Model-8047,2020-09-07,2027-08-18,Matthew Townsend,Retired
+SW100,Behavior Software,Software,Microsoft,Version-09.3,2021-07-10,2026-03-21,Finance Analyst,Active

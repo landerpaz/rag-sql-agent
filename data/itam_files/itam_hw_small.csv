@@ -1,0 +1,5 @@
+Asset_ID,Asset_Name,Asset_Type,Manufacturer,Model,Purchase_Date,Warranty_Expiry,Assigned_To,Status
+HW001,Dell Laptop,Hardware,Dell,XPS 13,2022-05-10,2025-05-10,John Doe,In Use
+HW002,HP Monitor,Hardware,HP,EliteDisplay E243,2021-03-15,2024-03-15,Jane Smith,In Use
+SW001,Microsoft Office 365,Software,Microsoft,Office 365 ProPlus,2023-01-01,2024-01-01,Finance Team,Active
+SW002,Adobe Photoshop,Software,Adobe,Photoshop CC 2023,2022-07-01,2023-07-01,Marketing Team,Expired
